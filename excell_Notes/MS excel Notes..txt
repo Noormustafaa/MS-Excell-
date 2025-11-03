@@ -1,0 +1,58 @@
+MS excel Notes.
+1:How you can open the ms excel
+  i: using search bar.
+  ii: run Command and write excell and then press ok
+
+
+Select The Blank document..
+--Ribbion (Collection of Multibple tab's Groups 
+
+Below of it is: Name box and then Formula bar.
+
+each box is call (cell) in excell
+
+There Are three methods for zoom:
+1: IN LAst Rigth Corner There is option of + and -.
+2: ALT+V and then you will see popup and then click on  Z . and the you will see another box you can set your zoom.
+3:Control+mouseInword or Out Word
+
+
+--Total How many rows and column are exist ?
+For columns: control+rightArrow (you will reach last cell and same for left arrow you reach first column)  (16384)
+for Rows   : Control+downArrow 1048576  (10lac 48 thousand 5 hundred 76) rows we can add
+
+
+
+
+--A, B, C represents columns 
+jab b hum kisi b column par cell ko drag kary gai to name box batae ga c4 mtlb c kai column mai ho tum aur row 4rth mai .
+
+
+
+Note That : in msexcel for all formulas you must have to write down the equal sign(=) first.
+
+--so 
+	write on any cell =20+10 and then enter it will show 30 
+        and us kai saamny he tum direct kisi aur cell par 30 likh lo .
+
+
+now the difference is that jab b tum formula waly cell par jaha tum nai addition use ki to phr 
+tum asaani sai formula bar mai wahi addition wali operation dekh sako gai .
+
+but jo side waly mai direct 30 likha waha formula bar mai khuch nh hoga show .
+
+
+
+--Note neechy sai hum + symbol ko click kar kai aur b sheets add kar sakty hain.
+
+	--Shift+(fn)F11 sai hum right kai taraf sheets add hongi..
+
+
+--we can also change the color of name of sheet1(tabs) just right click and select tabcolor and then assing any color 
+ -- and we can also protect our sheet .
+ just click on tab sheet and then select protect sheet, you can assign any password etc
+
+
+
+
+

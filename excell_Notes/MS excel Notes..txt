@@ -53,6 +53,55 @@ but jo side waly mai direct 30 likha waha formula bar mai khuch nh hoga show .
  just click on tab sheet and then select protect sheet, you can assign any password etc
 
 
+MS-Excell Basic Formula's..!!
+
+Note: Excell mai 2 types kai formula's hoty hain ..
+1:Pre Defined..(functions)
+2:Formula(jo hum khud likhty hain)
+
+
+Let's Learn First ...
+addition(+)..
+write on any cell 10 and other cell 30 then control hold kar kai phr us us cell ko click kary aap taaki
+
+jo particular cell ap add karna chao wo add ho jae ga but last mai enter click karna hai..
+
+same for subtraction and Multiplication and division  !!(-)  (+) (*) (/)
+
+NOte Hum cell kai andar b multiply ya divide kar sakty hain..
+like this (=1000/10)
+
+
+
+and for square root !
+
+
+=Sqrt16 and then Enter Click karo..
+
+
+now for power ..
+=power(10,2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

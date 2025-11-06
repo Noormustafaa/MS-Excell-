@@ -1,0 +1,52 @@
+Lecture 2 MS  Excell -- How to insert Rows and columns ..
+
+--how to insert column
+
+sab sai pehly us column ko select karo top mai sai like b waali column you have seleceted and then 
+mouse sai right button click kary ..aur phr insert column par click kary ab righ sai insert karna hai aap ko 
+ya left sai its up to u . 
+
+
+-- How to Insert row 
+
+for inserting row sab sai pehly us row ko select karo..aur phr same tareeky sai insert row par select karo aur ab ap ki
+marzi hai upper sai add karna chahty hai ya neechy sai
+
+
+--Note agr ap just cell ko select kary gai to is case mai aap sai poochy gaa row ko add karna hai ya column ko .
+--ap ko show hoga shift cell right 
+--- shift cell down 
+--- enter row 
+-- Enter column 
+
+
+Alligment Group ----
+
+1--Merge and Center --
+
+this is used for merge the all columns ..
+
+example hum kisi b sheet mai title dena chahaty hain to jab hum likhy gai to wo different diffent cells mai aa jae ga but ..
+jab hum us saarii columns kai cells ko merge and center kary gai to saary column ek row ban jary gai ..
+
+
+2--Merge and cells --
+sai hum 2 cells ko hu ek kar sakty hain..Kese ? 
+Pehly khuch likho dono cell mai sai ek jagah khuch b likho ..
+aur phr select karo dono ko aur phr click karo merge and cell kro. 
+
+output mai 2 cells ek ho jae gai ..
+
+
+3-unmerge cell --
+to same aap merge waaly cell par select kar kai unmerge b kar sakty hain.. just unmerge ko click kar kai..
+
+
+
+
+
+
+
+
+
+

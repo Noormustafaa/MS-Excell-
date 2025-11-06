@@ -1,0 +1,65 @@
+Data Entry..
+
+mean Hum excel mai data ko kese enterii karwa sakty hain...
+
+
+top pai jo b heading kai columns mai hum nai columns kai name likhy hai wo automatic cell mai text kai 
+hisab ai us ko space dai is ki short cut key hai ..
+
+method 1
+
+1 pehly us saari row ko select karo aur phr 
+   Alt ko click karo phr 
+    H (home)  par click karo phr-
+    O (cells Format group)   par click karo phr -
+    I    par click karo 	
+
+
+
+2 Method ...
+
+
+us Column par click karo par (double click) phr wo automatic data kai hisab sai space dai ga cell.
+
+
+
+3--Method 
+
+Column ko aap drag kar kai b aap cell ke size us hisaab ai rakh sakty hain.
+
+
+
+--->Now Ab data Entry mai kia hota hai log 1,2,3 yai saary har ek cell mai khud likh tai jaaty hain.
+
+ap ko kia karna hai pehly 1 likho ek cell mai aur doosry mai 2 aur phr dono ko select karo aur phr (shift)
+ko hold kar kai drag karo neechy automatic saari sequence generate ho jae gii..
+
+
+
+Note agr just 1 likh kar drag kari gai to us ko sirf 1 , 1 he samaj aye ga aur wo just wahii generate kary ga .
+
+Note agr ap pehly 1 likho gai aur phr 6 aur phr agr shift pakar kar tum drag karo gai to 
+us hisab sai number chor chor kar tummy aagy sequence dety jaye ja ..
+
+
+--Note agr ap chahty hai 1 just hum likhy aur phr usi just 1 ko drag karny sai seq generate ho to
+ is k lye aap ko 1 ko click karo aur phr (control) pakar kar cell kai (arrow) ko hold kar kai 
+drag karo
+
+--> ab sary subject mai data ko fill karny ka acha tareeka....
+
+    pehly un saary rows aur colums ko select karo phr jese jese data enter 
+    karty jao gai to phr automatic tum doosry columns mai phuchty jao gai , data ko 
+    enter karty karty..
+
+
+
+
+
+
+
+
+
+
+
+

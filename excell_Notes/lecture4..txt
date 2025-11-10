@@ -1,0 +1,121 @@
+lecture4.
+
+SR No     Name Of The Student   Hindhi  English  Math   Science  History  Total MAX Min Count AVG  %Tage Result  Grade 
+
+
+so hear each row defined the particular student Record . 
+so let's do total first..
+
+total waaly cell par ao ..
+
+--Method 1..
+
+CLick on Summesion icon and then click on SUM.
+excel automatically us poorri row ko select kar lai ga aur total waly cell  mai likha hua aye ga =sum(C2:G2)
+and then hit(click Just Enter . ap ko saary record(row) kaa poora ki poora total mil jae ga ..
+
+
+---Method2..
+
+total waly cell par ao aur phr write = and then select Hindhi cell marks + aur phr english waaly ko aur phr + aur phr again
++ ese he karty jao aur last mai just Enter click karo , tumy total mil jae gaa..
+
+Note agr tumy formula mtlb method check karna hai to go to that formula box mai ja kar check kar sakty ho ya 
+total par jaa jai us kai cell par double click karo jaha tum nai total find kia hai us cell par double click karna
+
+Note 2..
+
+aur jab tum ek record ki saara total find kar jaao to same tareeky sai us record ko select kar kai shift ko hold kar kai drag karo aur phr shift ko hold
+karty hee ho aur mouse ko shor do ...
+
+
+--Method 3rd to activate the Sum function
+
+Total waly cell par ao aur pehly record kai totaly waaly cell par ao phr waha 
+
+(alt and then press =) The sum function will appear directly 
+means alt ko hold kar kai click karo = and then Enter click karo 
+
+--Method 4 
+
+write =Sum()
+
+aur brackets kai andar fist column ko select karo aur phr second waly subject aur phr phr third waly ko aur close kar kai bracket ko enter click karo
+Note: first subject sai last subject tak drag kar kai saary record ko select kar kai phr enter karna .
+
+khuch is Tarah show hoga =SUM(B8:E8) mtb b8 columns sai E8 tak  aur phr Enter click karo.
+
+
+
+Note : tum jab ek kaa total find kar lo to us cell par corner mai double click karo kai jab to  automatic sary record ka tummy total mil jae ga.
+
+      jese tum shift kar kai drag karty thai to ab tum double click kar kai b . kar sakty ho 
+
+
+-->Max
+
+
+--Now Let's see how can we do this on maximum
+
+-- go to same summession icon and then click on maximum .. 
+it will automatically find maximum for entire column .. 
+
+to wo saary column mai sai maximum subject ki marks maximum kar kai dai ga ..
+NOte : jab tum esa karo gai to wo total waly column ko b lai ga to is wajah sai 
+
+        tum first subject sai last subject tak drag  kar kai phr enter click karo tummy maximum mil jae gaa saary columns mai sai 
+	and then double click karo us cell par to wo saaro par apply ho jae ga 
+
+
+-->same for minimum  and the count and the avg  ..
+-Note .. tum just subjects ki marks ko he count karna 
+
+
+
+
+--> Percentage 
+
+	Note --Percentage Does not have any built in function so that means we have to create it by own
+	
+
+	write on percentage first cell = and then press total cell marks first record and the /500 . and then press enter 
+
+	500 is wajah sai ke assume karty hai har subject ki total 100 marks hai assume karo.
+		
+	=total/toal subject mtb ,, =total/500 mtlb ,,, five subjects 
+
+
+
+	or =(H2/500)*100 esa b kar sakty ho aap ..
+
+
+
+	aur remaining k lye tum sum us cell par double click karo automatic saary ki percentage find ho jae gii ..
+
+	
+	-- and for Result and the grade column we will learn in next lecture 
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

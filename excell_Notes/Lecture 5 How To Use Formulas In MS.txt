@@ -1,0 +1,36 @@
+Lecture 5 How To Use Formulas In MS Excel  ...!!
+
+
+IF  Conditions in ms Excell :
+
+Types of IF :
+
+1: IF 
+2: IF AND 
+3: IF OR
+4: IF IF 
+
+Now Let's Discuss First 
+
+--IF
+
+2 columns create karo 
+
+Suhail Result  to ab hum chahaty hai result just direct show ho pass ya fail to hum if Contidion ka use kary gai 
+
+pehyly =IF(cellSelectkaromarkswala>=33,"Pass","Fail") aur phr enter click karo.
+
+
+--IF AND : This IS used for the Multiple Conditions :
+
+example agr hamary pass multiple subject ho 
+
+=IF(AND(C2>=33,D2>=33),"PASS","FAIL")
+
+--IF OR
+
+
+=IF(OR(C2<33,D2<33),"PASS","FAIL")
+
+
+

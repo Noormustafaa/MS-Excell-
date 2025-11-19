@@ -1,0 +1,79 @@
+Lecture 6
+How To Use Sort and Filter 
+
+--Filter 
+Step1: First Select All the data and then in
+       Editing Group there is and Sort and filter in home tab option
+       Click over it . and then click on the filter option.
+
+Step2 : Method 2:Click on Alt and then A and then T , the filter will apply on data .
+
+   Sort and filter ka fayeda yai he ke jab aap filter kary gai data ko to aap us ko 
+  apni marzi sai sort kar sakty hai har column par ek menu option show hoga jaha aap 
+  sorting b apnii marzi sai set kar sakty hai khuch records ko waha sai khatam b kar sakty hai
+
+-->TextFilter
+
+--Equals to
+sab sai pehly naam waly saary columns par aaye aur phr us menu par click kary and then click on 
+option TextFilter and then click on equalsto option and then waha ek popup window mai likho
+Noor:  Note Wo Noor Pehly he likha hona chaye tumari original data mai .
+phr tum jese he enter click karo gai to sirf Noor Kaa he data tummy dikhae dai ga
+
+--> TextFilter Donot Equals To 
+
+Same TextFilter Par click kary aur waha click kary do not equals to aur phr Us popup window mai write karo 
+  Noor to wo Noor waly Record ko chor kar saari over all data ko tummy show kary ga .
+
+
+--TextFilter 
+--Begin_With And End With in same way you can apply it .
+
+	Note: Contain and Does not contain and customized is HW.
+
+
+
+
+---Number's Filter 
+
+
+Step1: CLick On marks columns where all columns have number .
+	over the first column(cell) click on menu and select Number's filter .
+
+
+
+-equal Number 
+
+Same jab waha tum koi b number likho gai agr waha tum likho gai 22 , to jis ki b English waly subject mai 
+23 marks aaye hongi to wo saary recors aa jaye gai.
+
+Same For Greater than and smaller than.
+
+agr grater than 33 likho gai to mtlb wo log us subject mai pass hai aur agr less than 33 to mtlb wo sary
+students us subjects mai fail hai
+
+
+
+---Now Sort
+
+in the Data Tab , beside the filter option there is an sort option.
+Sort mai means asscendin order A,B,C ki sequence mai ap kar sakkty hai sort.
+
+ step1 :to pehly saary Names wala column ko select karo aur phr sort waly option ko click karo
+   waha pai ap ko ek pop up window open ho jae ga waha ap ko expand with selection ko click karna hai 
+   other wise jo aap ki saari data hai wo change ho jaye gi sequence kai name kai hisab sai.
+
+
+Grade using if if 
+=IF(A2>=80,"A", IF(A2>=70,"B", IF(A2>=60,"C", "Fail")))
+  
+
+
+
+
+
+
+
+
+
+

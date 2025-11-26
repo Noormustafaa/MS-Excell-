@@ -1,0 +1,37 @@
+How To Use Water Mark on any table :
+Step1: sab sai pehly aap table design kary complete 
+step2: Go to insert tab and then go to header and the Footer 
+       Jese hee ap header and footer par click kary gai to aap ka jo page hai wo page layout mai
+       open ho jaye ga aur ap ko phr Design par click karna hoga aur phr waha sai ap ko picture Select
+       karni pary gi apny system mai sai. aur phr picture aap jese he insert kary gai to ap ki picture 
+	insert ho jae gii aur  then aap ko kisi b cell par just click kary gai to water mark apply ho jaye ga.
+
+	aur agr ap ko water mark wali picture ko chota ya barha karna hai to ap ko again top par click kary 
+	header wali jagah par aur phr design waly tab par click kary aur phr format picture par click kary gai.
+	aur phr waha pai aap ko ek pop up window open ho jaye ga jaha aap picture ki height aur width ko set kar    	sakty hai.  
+
+ 
+Water Mark Center :
+
+	aur agr ko ko image ko center par karna hai to header pai click kar kai & is waly operator sai pehly
+ 	Enter click karty jao jitna ap ko center par rakhna hai aur hr table kai kisi b cell par click karo .
+
+Water Mark ka clor kam karna :
+
+For that go to header and select the image then go to format picture option and then pop up window open 
+ho jaye ga aur Size kai samny picture waly par click karo us mai color waly option ko click kar kai
+Washout select karo: and then ok par click karo tumara water mark light colot mai aa jaye ga 
+
+
+
+Normal View : ab is table ko again wapas normal view mai laany k lye go to view tab and the click on normal view 
+to ap normal view mai chaly jaye gai .
+
+--Page layout : wapas watermark ko dekhny k lye go to the view and click on page layout  
+
+
+
+
+
+
+ 
